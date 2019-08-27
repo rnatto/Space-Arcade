@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 4cc1250fa3c6a424ab1f52fd5935fc69
+timeCreated: 1475133770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asteroid_Template_0
+    21300002: Asteroid_Template_1
+    21300004: Asteroid_Template_2
+    21300006: Asteroid_Template_3
+    21300008: Asteroid_Template_4
+    21300010: Asteroid_Template_5
+    21300012: Asteroid_Template_6
+    21300014: Asteroid_Template_7
+    21300016: Asteroid_Template_8
+    21300018: Asteroid_Template_9
+    21300020: Asteroid_Template_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asteroid_Template_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 858
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_1
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 156
+        width: 945
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_2
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 167
+        width: 1093
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_3
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 150
+        width: 1002
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_4
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 79
+        width: 841
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_5
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 26
+        width: 814
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_6
+      rect:
+        serializedVersion: 2
+        x: 6364
+        y: 127
+        width: 872
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_7
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 190
+        width: 1070
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_8
+      rect:
+        serializedVersion: 2
+        x: 8471
+        y: 173
+        width: 1036
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_9
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 105
+        width: 844
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroid_Template_10
+      rect:
+        serializedVersion: 2
+        x: 10549
+        y: 71
+        width: 810
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cffcfd09be2ee454da92f9278307cefa
+timeCreated: 1474925655
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - music_shoot: {fileID: 8300000, guid: 00a73906325779a4b9c612cb1107b7e2, type: 3}
+  - music_Explosion: {fileID: 8300000, guid: f82035e6cd9f7cb47942657029caf66c, type: 3}
+  - music_Back: {fileID: 8300000, guid: 8d84539d8eebdbe479c334d28fa35414, type: 3}
+  - music_Boss: {fileID: 8300000, guid: 93e2af56cb5323044a60b2869dc52e6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

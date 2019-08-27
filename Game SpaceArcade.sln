@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game SpaceArcade.CSharp.Plugins", "Game SpaceArcade.CSharp.Plugins.csproj", "{9487AFBF-358F-6E35-B81D-9D9D6A544C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game SpaceArcade.CSharp", "Game SpaceArcade.CSharp.csproj", "{977A5D98-6CB3-9FF8-CB05-6B74E7E0EC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game SpaceArcade.CSharp.Editor", "Game SpaceArcade.CSharp.Editor.csproj", "{719DE3F6-AE8A-3531-85F1-E0AF52421519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9487AFBF-358F-6E35-B81D-9D9D6A544C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9487AFBF-358F-6E35-B81D-9D9D6A544C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9487AFBF-358F-6E35-B81D-9D9D6A544C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9487AFBF-358F-6E35-B81D-9D9D6A544C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977A5D98-6CB3-9FF8-CB05-6B74E7E0EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977A5D98-6CB3-9FF8-CB05-6B74E7E0EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977A5D98-6CB3-9FF8-CB05-6B74E7E0EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977A5D98-6CB3-9FF8-CB05-6B74E7E0EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719DE3F6-AE8A-3531-85F1-E0AF52421519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719DE3F6-AE8A-3531-85F1-E0AF52421519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719DE3F6-AE8A-3531-85F1-E0AF52421519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719DE3F6-AE8A-3531-85F1-E0AF52421519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

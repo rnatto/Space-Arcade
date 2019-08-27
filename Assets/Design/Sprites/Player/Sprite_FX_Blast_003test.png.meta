@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0a5b4f15cb9ca724ea491c9778cda328
+timeCreated: 1474844760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_FX_Blast_003test_0
+    21300002: Sprite_FX_Blast_003test_1
+    21300004: Sprite_FX_Blast_003test_2
+    21300006: Sprite_FX_Blast_003test_3
+    21300008: Sprite_FX_Blast_003test_4
+    21300010: Sprite_FX_Blast_003test_5
+    21300012: Sprite_FX_Blast_003test_6
+    21300014: Sprite_FX_Blast_003test_7
+    21300016: Sprite_FX_Blast_003test_8
+    21300018: Sprite_FX_Blast_003test_9
+    21300020: Sprite_FX_Blast_003test_12
+    21300022: Sprite_FX_Blast_003test_13
+    21300024: Sprite_FX_Blast_003test_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_0
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 14
+        width: 96
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_1
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 11
+        width: 14
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_2
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 334
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 335
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 170
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 23
+        width: 174
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 22
+        width: 174
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 21
+        width: 177
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 22
+        width: 174
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_9
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 18
+        width: 177
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_12
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 11
+        width: 14
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_13
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 11
+        width: 14
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Blast_003test_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
